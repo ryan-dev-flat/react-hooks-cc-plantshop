@@ -8,7 +8,7 @@ function Header() {
         <span className="logo" role="img">
           🌱
         </span>
-      </h1>
+      </h1>.
     </header>
   );
 }

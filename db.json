@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Calathea",
+      "image": "./images/calathea.jpg",
+      "price": 11.11,
+      "id": 8
+    },
+    {
+      "name": "Poison Ivy",
+      "image": "./images/poison-ivy.jpg",
+      "price": 666.66,
+      "id": 9
+    },
+    {
+      "name": "ficus",
+      "image": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTOtqXw4MF50wCNilMZgARM8nieyvL0nDamcHA1w8eR-3Z2-Xycec9bB4WVxefVI9kY",
+      "price": 10,
+      "id": 10
     }
   ]
 }
